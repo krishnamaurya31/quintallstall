@@ -1,0 +1,8 @@
+# Laravel
+/laravel/vendor/
+/laravel/.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
